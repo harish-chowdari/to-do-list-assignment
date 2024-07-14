@@ -1,40 +1,14 @@
+/* Styling for the App component */
 .App {
   text-align: center;
-  margin: 2rem;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
 }
 
-form {
-  margin-bottom: 2rem;
-}
-
-input {
-  padding: 0.5rem;
-  margin-right: 0.5rem;
-}
-
-button {
-  padding: 0.5rem;
-  margin-left: 0.5rem;
-}
-
-ul {
-  list-style: none;
-  padding: 0;
-}
-
-li {
-  margin: 1rem 0;
-  padding: 0.5rem;
-  border: 1px solid #ccc;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-li input {
-  flex: 1;
-}
-
-li button {
-  margin-left: 0.5rem;
+/* Styling for the heading */
+h1 {
+  color: #333;
+  margin-bottom: 20px;
 }

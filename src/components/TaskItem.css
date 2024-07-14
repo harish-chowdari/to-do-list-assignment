@@ -1,0 +1,26 @@
+/* Styling for the input field */
+li input {
+    padding: 5px;
+    margin-right: 10px;
+    flex: 1;
+  }
+  
+  /* Styling for the save button */
+  li button {
+    padding: 5px 10px;
+    font-size: 14px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-left: 10px;
+  }
+  
+  /* Hover effect for the save button */
+  li button:hover {
+    background-color: #218838;
+  }
+
+  

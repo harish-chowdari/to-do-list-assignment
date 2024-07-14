@@ -3,6 +3,7 @@ import TaskInput from './components/TaskInput'
 import TaskList from './components/TaskList'
 import './App.css'
 
+// App component to render the To-Do list application
 const App = () => {
   return (
     <div className="App">
