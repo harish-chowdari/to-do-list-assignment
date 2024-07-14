@@ -1,5 +1,5 @@
 1)**Clone the Repository:**
-   <ul>
+   <ul type="disc">
    git clone <repository-url>
    unzip the folder
    cd <folder-name>
