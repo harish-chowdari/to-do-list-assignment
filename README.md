@@ -1,9 +1,7 @@
 1)**Clone the Repository:**
-   <ul type="disc">
-   git clone <repository-url>
-   unzip the folder
+   git clone <repository-url>; 
+   unzip the folder;
    cd <folder-name>
-   </ul>
 
 2) **Install Dependencies:**
    npm install
